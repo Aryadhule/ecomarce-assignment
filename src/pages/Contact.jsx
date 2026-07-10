@@ -1,0 +1,1 @@
+export default function Shop() { return <h1 style={{padding:'50px'}}>Contact Page</h1> }
